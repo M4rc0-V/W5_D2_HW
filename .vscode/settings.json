@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Theater",
+            "connectString": "postgres://zokeuwfs:eSz-SGwcHg-_5VfH_wQONKwfDQMOBnF3@kashin.db.elephantsql.com/zokeuwfs"
+        }
+    ]
+}
